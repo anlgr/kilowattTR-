@@ -1,0 +1,278 @@
+{
+  "metadata": {
+    "source": "ShiftDelete, LOG & Motor1 TR (Orijinal Görselli Canlı RSS)",
+    "is_live": true,
+    "updated_at": "22.11.2026 00:45",
+    "total_count": 12
+  },
+  "hero_slides": [
+    {
+      "id": 1,
+      "title": "Elektrikli Mercedes C400 incelemesi: 489 HP",
+      "description": "Tamamen elektrikli yeni Mercedes C400 4MATIC AMG'yi test ettik. 489 beygir, 94 kWh batarya, 700 kilometreyi aşan WLTP menzili ve 330 kW hızlı şarjın gerçek kullanımdaki karşılığını anlattık.",
+      "source": "ShiftDelete.Net",
+      "url": "https://shiftdelete.net/elektrikli-mercedes-c400-4matic-inceleme",
+      "date": "21 Kasım 2026",
+      "read_time": "3 dk okuma",
+      "tag": "YENİ MODELLER",
+      "tagBg": "bg-amber-600 text-white",
+      "imageUrl": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/sdntv-j3b3H7n7wIE.webp"
+    },
+    {
+      "id": 2,
+      "title": "Tesla FSD İtalya'da onaylandı",
+      "description": "Tesla'nın Avrupa'da Tesla Assisted Driving adıyla sunduğu FSD (Supervised) sistemi İtalya'da geçici onay aldı. İtalya, AB'nin en kalabalık dört ülkesi içinde sisteme izin veren ilk ülke oldu.",
+      "source": "ShiftDelete.Net",
+      "url": "https://shiftdelete.net/tesla-fsd-italya-onay-tesla-assisted-driving",
+      "date": "20 Kasım 2026",
+      "read_time": "4 dk okuma",
+      "tag": "TESLA GÜNDEMİ",
+      "tagBg": "bg-red-600 text-white",
+      "imageUrl": "https://ares.shiftdelete.net/2026/05/tesla-fsd-estonya-scaled.webp"
+    },
+    {
+      "id": 3,
+      "title": "Elon Musk, direksiyon ve pedalları bulunmayan bir Tesla Model Y planlıyor",
+      "description": "Tesla Model Y'yi temel alan bir robotaksi olarak özetlenebilir.",
+      "source": "Motor1 Türkiye",
+      "url": "https://tr.motor1.com/news/816272/tesla-modely-robotaksi-planliyor/",
+      "date": "20 Kasım 2026",
+      "read_time": "5 dk okuma",
+      "tag": "TESLA GÜNDEMİ",
+      "tagBg": "bg-red-600 text-white",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/407zeq/s3/2027-tesla-model-y-l.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Volkswagen, ID.Polo'yu 367 bg gücünde elektrikli bir canavara dönüştürüyor!",
+      "description": "GTI Clubsport konsepti, tamamen pist odaklı bir yapıya sahip.",
+      "source": "Motor1 Türkiye",
+      "url": "https://tr.motor1.com/news/816247/id-polo-gti-clubsport-konsept/",
+      "date": "20 Kasım 2026",
+      "read_time": "6 dk okuma",
+      "tag": "EV GÜNDEM",
+      "tagBg": "bg-cyan-600 text-white",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/P3V28r/s3/vw-id.-polo-gti-clubsport-concept-2026.jpg"
+    }
+  ],
+  "news_list": [
+    {
+      "id": 5,
+      "title": "Elektrikli AMG GT 4-Kapı Türkiye'de: İşte fiyatı",
+      "description": "Mercedes-AMG'nin tamamen elektrikli GT 4-Kapı Coupé modeli Türkiye'de satışa çıktı. GT 55 13.275.000 TL'den, GT 63 ise 17.500.000 TL'den satılıyor.",
+      "source": "ShiftDelete.Net",
+      "url": "https://shiftdelete.net/elektrikli-mercedes-amg-gt-4-kapi-turkiye-fiyati",
+      "date": "20 Kasım 2026",
+      "read_time": "3 dk okuma",
+      "tag": "PAZAR & ANALİZ",
+      "tagBg": "bg-blue-600 text-white",
+      "imageUrl": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/mercedes-amg-gt-4-kapi-elektrikli-kapak-2011.webp"
+    },
+    {
+      "id": 6,
+      "title": "CATL, Türkiye'deki ilk NING Service deneyim merkezini açtı!",
+      "description": "Türkiye'nin ilk batarya onarım deposu olacak.",
+      "source": "Motor1 Türkiye",
+      "url": "https://tr.motor1.com/news/816168/catl-ning-service-turkiyede/",
+      "date": "20 Kasım 2026",
+      "read_time": "4 dk okuma",
+      "tag": "EV GÜNDEM",
+      "tagBg": "bg-cyan-600 text-white",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/407rJk/s3/catl-ning-service-turkiye.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Porsche 550 Spyder elektrikli kopyayla döndü",
+      "description": "Porsche ve Hedley Studios, efsane 550 Spyder'ın yüzde 80 ölçekli elektrikli kopyası 550 J'yi tanıttı. Hızı 80 km/s'ye çıkan araçtan yalnızca 250 adet üretilecek.",
+      "source": "ShiftDelete.Net",
+      "url": "https://shiftdelete.net/porsche-550-j-elektrikli-550-spyder-kopyasi",
+      "date": "19 Kasım 2026",
+      "read_time": "5 dk okuma",
+      "tag": "EV GÜNDEM",
+      "tagBg": "bg-cyan-600 text-white",
+      "imageUrl": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/porsche-550-j-hedley-kapak-1911.webp"
+    },
+    {
+      "id": 8,
+      "title": "Volkswagen, elektrikli şehir aracına ID. UP adını verebilir!",
+      "description": "Palmela fabrikası, 20,000 $'luk elektrikli hatchback'in 2027'de üretime başlamasını planlıyor.",
+      "source": "Motor1 Türkiye",
+      "url": "https://tr.motor1.com/news/816111/vw-idup-patent/",
+      "date": "19 Kasım 2026",
+      "read_time": "6 dk okuma",
+      "tag": "EV GÜNDEM",
+      "tagBg": "bg-cyan-600 text-white",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/pbz08g/s3/volkswagen-id.every1.jpg"
+    },
+    {
+      "id": 9,
+      "title": "BMW ilk \"ABD Üretimi\" elektrikli modelini üretmeye başladı!",
+      "description": "Spartanburg Fabrikası, 1,7 milyar $ destekle iX5 üretimine başladı ve günde 70 araç kapasiteye sahip.",
+      "source": "Motor1 Türkiye",
+      "url": "https://tr.motor1.com/news/816109/bmw-ilk-abd-ev-ix5/",
+      "date": "19 Kasım 2026",
+      "read_time": "3 dk okuma",
+      "tag": "YENİ MODELLER",
+      "tagBg": "bg-amber-600 text-white",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/wlkKk4/s3/2027-bmw-ix5-production-in-spartanburg-south-carolina.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Türkiye'de elektrikli araç sayısı 500 bini aştı",
+      "description": "EPDK'nın Ekim 2026 raporuna göre Türkiye'deki elektrikli araç sayısı 506.372'ye ulaştı. Ticari şarj noktası sayısı da 49.703'e yükseldi.",
+      "source": "ShiftDelete.Net",
+      "url": "https://shiftdelete.net/turkiye-elektrikli-arac-sayisi-500-bini-asti",
+      "date": "19 Kasım 2026",
+      "read_time": "4 dk okuma",
+      "tag": "EV GÜNDEM",
+      "tagBg": "bg-cyan-600 text-white",
+      "imageUrl": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/togg-t10x-t10f-resmi-2011.webp"
+    }
+  ],
+  "all_articles": [
+    {
+      "id": 1,
+      "title": "Elektrikli Mercedes C400 incelemesi: 489 HP",
+      "description": "Tamamen elektrikli yeni Mercedes C400 4MATIC AMG'yi test ettik. 489 beygir, 94 kWh batarya, 700 kilometreyi aşan WLTP menzili ve 330 kW hızlı şarjın gerçek kullanımdaki karşılığını anlattık.",
+      "source": "ShiftDelete.Net",
+      "url": "https://shiftdelete.net/elektrikli-mercedes-c400-4matic-inceleme",
+      "date": "21 Kasım 2026",
+      "read_time": "3 dk okuma",
+      "tag": "YENİ MODELLER",
+      "tagBg": "bg-amber-600 text-white",
+      "imageUrl": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/sdntv-j3b3H7n7wIE.webp"
+    },
+    {
+      "id": 2,
+      "title": "Tesla FSD İtalya'da onaylandı",
+      "description": "Tesla'nın Avrupa'da Tesla Assisted Driving adıyla sunduğu FSD (Supervised) sistemi İtalya'da geçici onay aldı. İtalya, AB'nin en kalabalık dört ülkesi içinde sisteme izin veren ilk ülke oldu.",
+      "source": "ShiftDelete.Net",
+      "url": "https://shiftdelete.net/tesla-fsd-italya-onay-tesla-assisted-driving",
+      "date": "20 Kasım 2026",
+      "read_time": "4 dk okuma",
+      "tag": "TESLA GÜNDEMİ",
+      "tagBg": "bg-red-600 text-white",
+      "imageUrl": "https://ares.shiftdelete.net/2026/05/tesla-fsd-estonya-scaled.webp"
+    },
+    {
+      "id": 3,
+      "title": "Elon Musk, direksiyon ve pedalları bulunmayan bir Tesla Model Y planlıyor",
+      "description": "Tesla Model Y'yi temel alan bir robotaksi olarak özetlenebilir.",
+      "source": "Motor1 Türkiye",
+      "url": "https://tr.motor1.com/news/816272/tesla-modely-robotaksi-planliyor/",
+      "date": "20 Kasım 2026",
+      "read_time": "5 dk okuma",
+      "tag": "TESLA GÜNDEMİ",
+      "tagBg": "bg-red-600 text-white",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/407zeq/s3/2027-tesla-model-y-l.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Volkswagen, ID.Polo'yu 367 bg gücünde elektrikli bir canavara dönüştürüyor!",
+      "description": "GTI Clubsport konsepti, tamamen pist odaklı bir yapıya sahip.",
+      "source": "Motor1 Türkiye",
+      "url": "https://tr.motor1.com/news/816247/id-polo-gti-clubsport-konsept/",
+      "date": "20 Kasım 2026",
+      "read_time": "6 dk okuma",
+      "tag": "EV GÜNDEM",
+      "tagBg": "bg-cyan-600 text-white",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/P3V28r/s3/vw-id.-polo-gti-clubsport-concept-2026.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Elektrikli AMG GT 4-Kapı Türkiye'de: İşte fiyatı",
+      "description": "Mercedes-AMG'nin tamamen elektrikli GT 4-Kapı Coupé modeli Türkiye'de satışa çıktı. GT 55 13.275.000 TL'den, GT 63 ise 17.500.000 TL'den satılıyor.",
+      "source": "ShiftDelete.Net",
+      "url": "https://shiftdelete.net/elektrikli-mercedes-amg-gt-4-kapi-turkiye-fiyati",
+      "date": "20 Kasım 2026",
+      "read_time": "3 dk okuma",
+      "tag": "PAZAR & ANALİZ",
+      "tagBg": "bg-blue-600 text-white",
+      "imageUrl": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/mercedes-amg-gt-4-kapi-elektrikli-kapak-2011.webp"
+    },
+    {
+      "id": 6,
+      "title": "CATL, Türkiye'deki ilk NING Service deneyim merkezini açtı!",
+      "description": "Türkiye'nin ilk batarya onarım deposu olacak.",
+      "source": "Motor1 Türkiye",
+      "url": "https://tr.motor1.com/news/816168/catl-ning-service-turkiyede/",
+      "date": "20 Kasım 2026",
+      "read_time": "4 dk okuma",
+      "tag": "EV GÜNDEM",
+      "tagBg": "bg-cyan-600 text-white",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/407rJk/s3/catl-ning-service-turkiye.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Porsche 550 Spyder elektrikli kopyayla döndü",
+      "description": "Porsche ve Hedley Studios, efsane 550 Spyder'ın yüzde 80 ölçekli elektrikli kopyası 550 J'yi tanıttı. Hızı 80 km/s'ye çıkan araçtan yalnızca 250 adet üretilecek.",
+      "source": "ShiftDelete.Net",
+      "url": "https://shiftdelete.net/porsche-550-j-elektrikli-550-spyder-kopyasi",
+      "date": "19 Kasım 2026",
+      "read_time": "5 dk okuma",
+      "tag": "EV GÜNDEM",
+      "tagBg": "bg-cyan-600 text-white",
+      "imageUrl": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/porsche-550-j-hedley-kapak-1911.webp"
+    },
+    {
+      "id": 8,
+      "title": "Volkswagen, elektrikli şehir aracına ID. UP adını verebilir!",
+      "description": "Palmela fabrikası, 20,000 $'luk elektrikli hatchback'in 2027'de üretime başlamasını planlıyor.",
+      "source": "Motor1 Türkiye",
+      "url": "https://tr.motor1.com/news/816111/vw-idup-patent/",
+      "date": "19 Kasım 2026",
+      "read_time": "6 dk okuma",
+      "tag": "EV GÜNDEM",
+      "tagBg": "bg-cyan-600 text-white",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/pbz08g/s3/volkswagen-id.every1.jpg"
+    },
+    {
+      "id": 9,
+      "title": "BMW ilk \"ABD Üretimi\" elektrikli modelini üretmeye başladı!",
+      "description": "Spartanburg Fabrikası, 1,7 milyar $ destekle iX5 üretimine başladı ve günde 70 araç kapasiteye sahip.",
+      "source": "Motor1 Türkiye",
+      "url": "https://tr.motor1.com/news/816109/bmw-ilk-abd-ev-ix5/",
+      "date": "19 Kasım 2026",
+      "read_time": "3 dk okuma",
+      "tag": "YENİ MODELLER",
+      "tagBg": "bg-amber-600 text-white",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/wlkKk4/s3/2027-bmw-ix5-production-in-spartanburg-south-carolina.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Türkiye'de elektrikli araç sayısı 500 bini aştı",
+      "description": "EPDK'nın Ekim 2026 raporuna göre Türkiye'deki elektrikli araç sayısı 506.372'ye ulaştı. Ticari şarj noktası sayısı da 49.703'e yükseldi.",
+      "source": "ShiftDelete.Net",
+      "url": "https://shiftdelete.net/turkiye-elektrikli-arac-sayisi-500-bini-asti",
+      "date": "19 Kasım 2026",
+      "read_time": "4 dk okuma",
+      "tag": "EV GÜNDEM",
+      "tagBg": "bg-cyan-600 text-white",
+      "imageUrl": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/togg-t10x-t10f-resmi-2011.webp"
+    },
+    {
+      "id": 11,
+      "title": "Yeni Lexus NX, 2027'nin ilk çeyreğinde Türkiye'de",
+      "description": "Altıncı nesil hibrit teknolojisi ile geliyor.",
+      "source": "Motor1 Türkiye",
+      "url": "https://tr.motor1.com/news/816020/yeni-lexus-nx-turkiyeye-geliyor/",
+      "date": "19 Kasım 2026",
+      "read_time": "5 dk okuma",
+      "tag": "EV GÜNDEM",
+      "tagBg": "bg-cyan-600 text-white",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/BXZ7Nj/s3/lexus-nx-2026---foto.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Tesla'dan Almanya'ya 1 milyon robotaksilik plan",
+      "description": "Tesla, Grünheide'deki fabrikasına 3 milyar euroluk Cybercab tesisi eklemeyi planlıyor. Hedef yılda 1 milyon robotaksi, üretim 2029'da başlayacak.",
+      "source": "ShiftDelete.Net",
+      "url": "https://shiftdelete.net/tesla-giga-berlin-3-milyar-euro-cybercab-fabrikasi",
+      "date": "18 Kasım 2026",
+      "read_time": "6 dk okuma",
+      "tag": "TESLA GÜNDEMİ",
+      "tagBg": "bg-red-600 text-white",
+      "imageUrl": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/tesla-giga-berlin-resmi-kapak-1811.webp"
+    }
+  ]
+}

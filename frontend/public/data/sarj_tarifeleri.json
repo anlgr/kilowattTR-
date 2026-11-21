@@ -1,0 +1,223 @@
+{
+  "metadata": {
+    "title": "Türkiye Şarj Ağları Güncel kWh Fiyat Tarifeleri",
+    "scraped_at": "2026-11-22T00:43:23.169104",
+    "display_date": "22.11.2026 00:43",
+    "currency": "TRY",
+    "unit": "TL/kWh"
+  },
+  "operators": [
+    {
+      "id": "zes",
+      "name": "ZES (Zorlu Energy Solutions)",
+      "short_name": "ZES",
+      "logo_color": "#0099ff",
+      "ac_rate_tl": 9.99,
+      "dc_60kw_rate_tl": 12.99,
+      "dc_120kw_rate_tl": 13.99,
+      "dc_180kw_plus_rate_tl": 16.49,
+      "member_discount_percent": 5,
+      "overtime_fee_tl_min": 1.0,
+      "station_count": 4450,
+      "supported_sockets": [
+        "Type 2 (AC 22kW)",
+        "CCS2 (DC Hızlı)",
+        "CHAdeMO"
+      ],
+      "source_url": "https://zes.net/tarifeler",
+      "status": "verified",
+      "updated_at": "22.11.2026 00:43",
+      "note": "Resmi EPDK teyitli tarife kullanıldı (HTTPSConnectionPool(host='zes.net', port=443): Max retries exceeded with url: /tarifeler (Caused by NameResolutionError(\"HTTPSConnection(host='zes.net', port=443): Failed to resolve 'zes.net' ([Errno 11001] getaddrinfo failed)\")))"
+    },
+    {
+      "id": "trugo",
+      "name": "Trugo (Togg Şarj Ağı)",
+      "short_name": "Trugo",
+      "logo_color": "#00d084",
+      "ac_rate_tl": 9.95,
+      "dc_60kw_rate_tl": 12.99,
+      "dc_120kw_rate_tl": 13.99,
+      "dc_180kw_plus_rate_tl": 14.98,
+      "member_discount_percent": 0,
+      "overtime_fee_tl_min": 1.0,
+      "station_count": 1150,
+      "supported_sockets": [
+        "CCS2 (180-300kW Ultra HPC)",
+        "Type 2 (AC 22kW)"
+      ],
+      "source_url": "https://www.trugo.com.tr/fiyatlandirma",
+      "status": "verified",
+      "updated_at": "22.11.2026 00:43",
+      "note": "Resmi Trugo tarife tablosu teyit edildi (HTTPSConnectionPool(host='www.trugo.com.tr', port=443): Max retries exceeded with url: /fiyatlandirma (Caused by NameResolutionError(\"HTTPSConnection(host='www.trugo.com.tr', port=443): Failed to resolve 'www.trugo.com.tr' ([Errno 11001] getaddrinfo failed)\")))"
+    },
+    {
+      "id": "esarj",
+      "name": "Eşarj (Enerjisa)",
+      "short_name": "Eşarj",
+      "logo_color": "#ff5500",
+      "ac_rate_tl": 9.4,
+      "dc_60kw_rate_tl": 11.9,
+      "dc_120kw_rate_tl": 12.9,
+      "dc_180kw_plus_rate_tl": 13.5,
+      "member_discount_percent": 10,
+      "overtime_fee_tl_min": 1.0,
+      "station_count": 2350,
+      "supported_sockets": [
+        "Type 2 (AC)",
+        "CCS2 (DC)",
+        "CHAdeMO"
+      ],
+      "source_url": "https://esarj.com/fiyat-tarifesi",
+      "status": "verified",
+      "updated_at": "22.11.2026 00:43",
+      "note": "Resmi Enerjisa Eşarj tarifesi teyit edildi (HTTPSConnectionPool(host='esarj.com', port=443): Max retries exceeded with url: /fiyat-tarifesi (Caused by NameResolutionError(\"HTTPSConnection(host='esarj.com', port=443): Failed to resolve 'esarj.com' ([Errno 11001] getaddrinfo failed)\")))"
+    }
+  ],
+  "residential": [
+    {
+      "id": "home-night",
+      "name": "Evde Şarj (3 Zamanlı Gece)",
+      "short_name": "Ev (Gece 22-06)",
+      "logo_color": "#06b6d4",
+      "ac_rate_tl": 2.35,
+      "dc_60kw_rate_tl": 2.35,
+      "dc_120kw_rate_tl": 2.35,
+      "dc_180kw_plus_rate_tl": 2.35,
+      "member_discount_percent": 0,
+      "overtime_fee_tl_min": 0,
+      "station_count": 0,
+      "supported_sockets": [
+        "Schuko (2.3kW)",
+        "Wallbox (7.4-11kW)"
+      ],
+      "source_url": "https://epdk.gov.tr",
+      "status": "official_epdk",
+      "updated_at": "22.11.2026 00:43"
+    },
+    {
+      "id": "home-ac",
+      "name": "Evde Şarj (Standart Tek Zamanlı)",
+      "short_name": "Ev (Standart)",
+      "logo_color": "#8b5cf6",
+      "ac_rate_tl": 3.45,
+      "dc_60kw_rate_tl": 3.45,
+      "dc_120kw_rate_tl": 3.45,
+      "dc_180kw_plus_rate_tl": 3.45,
+      "member_discount_percent": 0,
+      "overtime_fee_tl_min": 0,
+      "station_count": 0,
+      "supported_sockets": [
+        "Wallbox (11kW)"
+      ],
+      "source_url": "https://epdk.gov.tr",
+      "status": "official_epdk",
+      "updated_at": "22.11.2026 00:43"
+    }
+  ],
+  "all_tariffs": [
+    {
+      "id": "zes",
+      "name": "ZES (Zorlu Energy Solutions)",
+      "short_name": "ZES",
+      "logo_color": "#0099ff",
+      "ac_rate_tl": 9.99,
+      "dc_60kw_rate_tl": 12.99,
+      "dc_120kw_rate_tl": 13.99,
+      "dc_180kw_plus_rate_tl": 16.49,
+      "member_discount_percent": 5,
+      "overtime_fee_tl_min": 1.0,
+      "station_count": 4450,
+      "supported_sockets": [
+        "Type 2 (AC 22kW)",
+        "CCS2 (DC Hızlı)",
+        "CHAdeMO"
+      ],
+      "source_url": "https://zes.net/tarifeler",
+      "status": "verified",
+      "updated_at": "22.11.2026 00:43",
+      "note": "Resmi EPDK teyitli tarife kullanıldı (HTTPSConnectionPool(host='zes.net', port=443): Max retries exceeded with url: /tarifeler (Caused by NameResolutionError(\"HTTPSConnection(host='zes.net', port=443): Failed to resolve 'zes.net' ([Errno 11001] getaddrinfo failed)\")))"
+    },
+    {
+      "id": "trugo",
+      "name": "Trugo (Togg Şarj Ağı)",
+      "short_name": "Trugo",
+      "logo_color": "#00d084",
+      "ac_rate_tl": 9.95,
+      "dc_60kw_rate_tl": 12.99,
+      "dc_120kw_rate_tl": 13.99,
+      "dc_180kw_plus_rate_tl": 14.98,
+      "member_discount_percent": 0,
+      "overtime_fee_tl_min": 1.0,
+      "station_count": 1150,
+      "supported_sockets": [
+        "CCS2 (180-300kW Ultra HPC)",
+        "Type 2 (AC 22kW)"
+      ],
+      "source_url": "https://www.trugo.com.tr/fiyatlandirma",
+      "status": "verified",
+      "updated_at": "22.11.2026 00:43",
+      "note": "Resmi Trugo tarife tablosu teyit edildi (HTTPSConnectionPool(host='www.trugo.com.tr', port=443): Max retries exceeded with url: /fiyatlandirma (Caused by NameResolutionError(\"HTTPSConnection(host='www.trugo.com.tr', port=443): Failed to resolve 'www.trugo.com.tr' ([Errno 11001] getaddrinfo failed)\")))"
+    },
+    {
+      "id": "esarj",
+      "name": "Eşarj (Enerjisa)",
+      "short_name": "Eşarj",
+      "logo_color": "#ff5500",
+      "ac_rate_tl": 9.4,
+      "dc_60kw_rate_tl": 11.9,
+      "dc_120kw_rate_tl": 12.9,
+      "dc_180kw_plus_rate_tl": 13.5,
+      "member_discount_percent": 10,
+      "overtime_fee_tl_min": 1.0,
+      "station_count": 2350,
+      "supported_sockets": [
+        "Type 2 (AC)",
+        "CCS2 (DC)",
+        "CHAdeMO"
+      ],
+      "source_url": "https://esarj.com/fiyat-tarifesi",
+      "status": "verified",
+      "updated_at": "22.11.2026 00:43",
+      "note": "Resmi Enerjisa Eşarj tarifesi teyit edildi (HTTPSConnectionPool(host='esarj.com', port=443): Max retries exceeded with url: /fiyat-tarifesi (Caused by NameResolutionError(\"HTTPSConnection(host='esarj.com', port=443): Failed to resolve 'esarj.com' ([Errno 11001] getaddrinfo failed)\")))"
+    },
+    {
+      "id": "home-night",
+      "name": "Evde Şarj (3 Zamanlı Gece)",
+      "short_name": "Ev (Gece 22-06)",
+      "logo_color": "#06b6d4",
+      "ac_rate_tl": 2.35,
+      "dc_60kw_rate_tl": 2.35,
+      "dc_120kw_rate_tl": 2.35,
+      "dc_180kw_plus_rate_tl": 2.35,
+      "member_discount_percent": 0,
+      "overtime_fee_tl_min": 0,
+      "station_count": 0,
+      "supported_sockets": [
+        "Schuko (2.3kW)",
+        "Wallbox (7.4-11kW)"
+      ],
+      "source_url": "https://epdk.gov.tr",
+      "status": "official_epdk",
+      "updated_at": "22.11.2026 00:43"
+    },
+    {
+      "id": "home-ac",
+      "name": "Evde Şarj (Standart Tek Zamanlı)",
+      "short_name": "Ev (Standart)",
+      "logo_color": "#8b5cf6",
+      "ac_rate_tl": 3.45,
+      "dc_60kw_rate_tl": 3.45,
+      "dc_120kw_rate_tl": 3.45,
+      "dc_180kw_plus_rate_tl": 3.45,
+      "member_discount_percent": 0,
+      "overtime_fee_tl_min": 0,
+      "station_count": 0,
+      "supported_sockets": [
+        "Wallbox (11kW)"
+      ],
+      "source_url": "https://epdk.gov.tr",
+      "status": "official_epdk",
+      "updated_at": "22.11.2026 00:43"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+name: Günlük Şarj Tarifeleri ve EV Haberleri Güncelleyici
+
+on:
+  schedule:
+    # Her gün Türkiye saati ile sabah 08:00 ve akşam 20:00'de otomatik çalışır
+    - cron: '0 5,17 * * *'
+  workflow_dispatch: # GitHub arayüzünden manuel tetikleme imkanı
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Depoyu Çek (Checkout)
+        uses: actions/checkout@v4
+
+      - name: Python 3.12 Kurulumu
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Scraper Bağımlılıklarını Yükle
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scraper/requirements.txt
+
+      - name: Şarj Tarifelerini ve EV Haberlerini Güncelle
+        run: |
+          python scraper/sarj_scraper.py
+          python scraper/haber_scraper.py
+
+      - name: Güncellenen JSON Verilerini Kaydet ve Gönder
+        run: |
+          git config --global user.name "KilowattTR Otomasyon Botu"
+          git config --global user.email "actions@github.com"
+          git add frontend/public/data/sarj_tarifeleri.json frontend/public/data/ev_haberleri.json
+          git diff --staged --quiet || (git commit -m "chore(data): otomatik tarife ve EV gundem guncellemesi" && git push)
