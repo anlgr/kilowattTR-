@@ -1,8 +1,8 @@
 {
   "metadata": {
     "title": "Türkiye Şarj Ağları Güncel kWh Fiyat Tarifeleri",
-    "scraped_at": "2026-11-22T00:43:23.169104",
-    "display_date": "22.11.2026 00:43",
+    "scraped_at": "2026-11-22T13:04:02.329406",
+    "display_date": "22.11.2026 13:04",
     "currency": "TRY",
     "unit": "TL/kWh"
   },
@@ -26,8 +26,7 @@
       ],
       "source_url": "https://zes.net/tarifeler",
       "status": "verified",
-      "updated_at": "22.11.2026 00:43",
-      "note": "Resmi EPDK teyitli tarife kullanıldı (HTTPSConnectionPool(host='zes.net', port=443): Max retries exceeded with url: /tarifeler (Caused by NameResolutionError(\"HTTPSConnection(host='zes.net', port=443): Failed to resolve 'zes.net' ([Errno 11001] getaddrinfo failed)\")))"
+      "updated_at": "22.11.2026 13:04"
     },
     {
       "id": "trugo",
@@ -47,8 +46,7 @@
       ],
       "source_url": "https://www.trugo.com.tr/fiyatlandirma",
       "status": "verified",
-      "updated_at": "22.11.2026 00:43",
-      "note": "Resmi Trugo tarife tablosu teyit edildi (HTTPSConnectionPool(host='www.trugo.com.tr', port=443): Max retries exceeded with url: /fiyatlandirma (Caused by NameResolutionError(\"HTTPSConnection(host='www.trugo.com.tr', port=443): Failed to resolve 'www.trugo.com.tr' ([Errno 11001] getaddrinfo failed)\")))"
+      "updated_at": "22.11.2026 13:04"
     },
     {
       "id": "esarj",
@@ -69,8 +67,7 @@
       ],
       "source_url": "https://esarj.com/fiyat-tarifesi",
       "status": "verified",
-      "updated_at": "22.11.2026 00:43",
-      "note": "Resmi Enerjisa Eşarj tarifesi teyit edildi (HTTPSConnectionPool(host='esarj.com', port=443): Max retries exceeded with url: /fiyat-tarifesi (Caused by NameResolutionError(\"HTTPSConnection(host='esarj.com', port=443): Failed to resolve 'esarj.com' ([Errno 11001] getaddrinfo failed)\")))"
+      "updated_at": "22.11.2026 13:04"
     }
   ],
   "residential": [
@@ -92,7 +89,7 @@
       ],
       "source_url": "https://epdk.gov.tr",
       "status": "official_epdk",
-      "updated_at": "22.11.2026 00:43"
+      "updated_at": "22.11.2026 13:04"
     },
     {
       "id": "home-ac",
@@ -111,7 +108,7 @@
       ],
       "source_url": "https://epdk.gov.tr",
       "status": "official_epdk",
-      "updated_at": "22.11.2026 00:43"
+      "updated_at": "22.11.2026 13:04"
     }
   ],
   "all_tariffs": [
@@ -134,8 +131,7 @@
       ],
       "source_url": "https://zes.net/tarifeler",
       "status": "verified",
-      "updated_at": "22.11.2026 00:43",
-      "note": "Resmi EPDK teyitli tarife kullanıldı (HTTPSConnectionPool(host='zes.net', port=443): Max retries exceeded with url: /tarifeler (Caused by NameResolutionError(\"HTTPSConnection(host='zes.net', port=443): Failed to resolve 'zes.net' ([Errno 11001] getaddrinfo failed)\")))"
+      "updated_at": "22.11.2026 13:04"
     },
     {
       "id": "trugo",
@@ -155,8 +151,7 @@
       ],
       "source_url": "https://www.trugo.com.tr/fiyatlandirma",
       "status": "verified",
-      "updated_at": "22.11.2026 00:43",
-      "note": "Resmi Trugo tarife tablosu teyit edildi (HTTPSConnectionPool(host='www.trugo.com.tr', port=443): Max retries exceeded with url: /fiyatlandirma (Caused by NameResolutionError(\"HTTPSConnection(host='www.trugo.com.tr', port=443): Failed to resolve 'www.trugo.com.tr' ([Errno 11001] getaddrinfo failed)\")))"
+      "updated_at": "22.11.2026 13:04"
     },
     {
       "id": "esarj",
@@ -177,8 +172,7 @@
       ],
       "source_url": "https://esarj.com/fiyat-tarifesi",
       "status": "verified",
-      "updated_at": "22.11.2026 00:43",
-      "note": "Resmi Enerjisa Eşarj tarifesi teyit edildi (HTTPSConnectionPool(host='esarj.com', port=443): Max retries exceeded with url: /fiyat-tarifesi (Caused by NameResolutionError(\"HTTPSConnection(host='esarj.com', port=443): Failed to resolve 'esarj.com' ([Errno 11001] getaddrinfo failed)\")))"
+      "updated_at": "22.11.2026 13:04"
     },
     {
       "id": "home-night",
@@ -198,7 +192,7 @@
       ],
       "source_url": "https://epdk.gov.tr",
       "status": "official_epdk",
-      "updated_at": "22.11.2026 00:43"
+      "updated_at": "22.11.2026 13:04"
     },
     {
       "id": "home-ac",
@@ -217,7 +211,7 @@
       ],
       "source_url": "https://epdk.gov.tr",
       "status": "official_epdk",
-      "updated_at": "22.11.2026 00:43"
+      "updated_at": "22.11.2026 13:04"
     }
   ]
 }
