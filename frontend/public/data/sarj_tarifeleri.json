@@ -1,8 +1,8 @@
 {
   "metadata": {
     "title": "Türkiye Şarj Ağları Güncel kWh Fiyat Tarifeleri",
-    "scraped_at": "2026-11-23T15:40:12.159843",
-    "display_date": "23.11.2026 15:40",
+    "scraped_at": "2026-11-24T03:09:49.250206",
+    "display_date": "24.11.2026 03:09",
     "currency": "TRY",
     "unit": "TL/kWh"
   },
@@ -26,7 +26,7 @@
       ],
       "source_url": "https://zes.net/tarifeler",
       "status": "verified",
-      "updated_at": "23.11.2026 15:40"
+      "updated_at": "24.11.2026 03:09"
     },
     {
       "id": "trugo",
@@ -46,7 +46,7 @@
       ],
       "source_url": "https://www.trugo.com.tr/fiyatlandirma",
       "status": "verified",
-      "updated_at": "23.11.2026 15:40"
+      "updated_at": "24.11.2026 03:09"
     },
     {
       "id": "esarj",
@@ -67,7 +67,7 @@
       ],
       "source_url": "https://esarj.com/fiyat-tarifesi",
       "status": "verified",
-      "updated_at": "23.11.2026 15:40"
+      "updated_at": "24.11.2026 03:09"
     }
   ],
   "residential": [
@@ -89,7 +89,7 @@
       ],
       "source_url": "https://epdk.gov.tr",
       "status": "official_epdk",
-      "updated_at": "23.11.2026 15:40"
+      "updated_at": "24.11.2026 03:09"
     },
     {
       "id": "home-ac",
@@ -108,7 +108,7 @@
       ],
       "source_url": "https://epdk.gov.tr",
       "status": "official_epdk",
-      "updated_at": "23.11.2026 15:40"
+      "updated_at": "24.11.2026 03:09"
     }
   ],
   "all_tariffs": [
@@ -131,7 +131,7 @@
       ],
       "source_url": "https://zes.net/tarifeler",
       "status": "verified",
-      "updated_at": "23.11.2026 15:40"
+      "updated_at": "24.11.2026 03:09"
     },
     {
       "id": "trugo",
@@ -151,7 +151,7 @@
       ],
       "source_url": "https://www.trugo.com.tr/fiyatlandirma",
       "status": "verified",
-      "updated_at": "23.11.2026 15:40"
+      "updated_at": "24.11.2026 03:09"
     },
     {
       "id": "esarj",
@@ -172,7 +172,7 @@
       ],
       "source_url": "https://esarj.com/fiyat-tarifesi",
       "status": "verified",
-      "updated_at": "23.11.2026 15:40"
+      "updated_at": "24.11.2026 03:09"
     },
     {
       "id": "home-night",
@@ -192,7 +192,7 @@
       ],
       "source_url": "https://epdk.gov.tr",
       "status": "official_epdk",
-      "updated_at": "23.11.2026 15:40"
+      "updated_at": "24.11.2026 03:09"
     },
     {
       "id": "home-ac",
@@ -211,7 +211,7 @@
       ],
       "source_url": "https://epdk.gov.tr",
       "status": "official_epdk",
-      "updated_at": "23.11.2026 15:40"
+      "updated_at": "24.11.2026 03:09"
     }
   ]
 }
