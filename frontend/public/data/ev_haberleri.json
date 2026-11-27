@@ -2,57 +2,57 @@
   "metadata": {
     "source": "ShiftDelete, LOG & Motor1 TR (Orijinal Görselli Canlı RSS)",
     "is_live": true,
-    "updated_at": "27.11.2026 00:56",
+    "updated_at": "27.11.2026 14:41",
     "total_count": 12
   },
   "hero_slides": [
     {
       "id": 1,
+      "title": "Audi, Çinli SUV'sine içten yanmalı motor ekliyor!",
+      "description": "Tam elektrikli bir girişim olan AUDI, EREV rotasına gidiyor.",
+      "source": "Motor1 Türkiye",
+      "url": "https://tr.motor1.com/news/816948/audi-e7x-erev-resmi/",
+      "date": "27 Kasım 2026",
+      "read_time": "3 dk okuma",
+      "tag": "EV GÜNDEM",
+      "tagBg": "bg-cyan-600 text-white",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/rK69VY/s3/audi-e7x-erev.jpg"
+    },
+    {
+      "id": 2,
       "title": "Toyota'nın ilk \"menzil uzatıcı\" modeli yolda!",
       "description": "GAC Toyota'nın yeni SUV'si, markanın elektrikli güç ünitelerine 5. seçeneği ekliyor.",
       "source": "Motor1 Türkiye",
       "url": "https://tr.motor1.com/news/816941/toyota-ilk-erev-teaser/",
       "date": "26 Kasım 2026",
-      "read_time": "3 dk okuma",
+      "read_time": "4 dk okuma",
       "tag": "ŞARJ & BATARYA",
       "tagBg": "bg-emerald-600 text-white",
       "imageUrl": "https://cdn.motor1.com/images/mgl/OoZEmB/s3/toyota-highlander-erev-teaser.jpg"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "JLR, elektrikli Range Rover GT'nin 2027'de geleceğini doğruladı!",
       "description": "Amiral gemisi modelin altında yer alsa da lüksten taviz vermiyor.",
       "source": "Motor1 Türkiye",
       "url": "https://tr.motor1.com/news/816907/range-rover-gt-2027-dogrulandi/",
       "date": "26 Kasım 2026",
-      "read_time": "4 dk okuma",
+      "read_time": "5 dk okuma",
       "tag": "EV GÜNDEM",
       "tagBg": "bg-cyan-600 text-white",
       "imageUrl": "https://cdn.motor1.com/images/mgl/y2lkJ7/s3/2028-range-rover-gt-rendering-by-motor1.jpg"
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "BMW, tam elektrikli M3'ü 2027'nin ilk günlerinde tanıtabilir",
       "description": "Motor1 Türkiye kaynağından aktarılan habere göre elektrikli otomobil ekosistemindeki son gelişmeler paylaşıldı.",
       "source": "Motor1 Türkiye",
       "url": "https://tr.motor1.com/news/816882/bmw-m3-ev-ces-2027/",
       "date": "26 Kasım 2026",
-      "read_time": "5 dk okuma",
+      "read_time": "6 dk okuma",
       "tag": "YENİ MODELLER",
       "tagBg": "bg-amber-600 text-white",
       "imageUrl": "https://cdn.motor1.com/images/mgl/2N90YK/s3/bmw-3-elektro-2027-teaserbilder.jpg"
-    },
-    {
-      "id": 4,
-      "title": "Yeni nesil Golf R, hibrit desteğine ihtiyaç duyabilir!",
-      "description": "Popüler hot hatch, Euro 7 kurallarını karşılamak için 48 voltluk hafif hibrit bir sisteme geçebilir.",
-      "source": "Motor1 Türkiye",
-      "url": "https://tr.motor1.com/news/816672/yeni-golfr-hafif-hibrit-olacak/",
-      "date": "24 Kasım 2026",
-      "read_time": "6 dk okuma",
-      "tag": "EV GÜNDEM",
-      "tagBg": "bg-cyan-600 text-white",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/lEqblE/s3/2025-volkswagen-golf-r-first-drive-review.jpg"
     }
   ],
   "news_list": [
@@ -132,51 +132,51 @@
   "all_articles": [
     {
       "id": 1,
+      "title": "Audi, Çinli SUV'sine içten yanmalı motor ekliyor!",
+      "description": "Tam elektrikli bir girişim olan AUDI, EREV rotasına gidiyor.",
+      "source": "Motor1 Türkiye",
+      "url": "https://tr.motor1.com/news/816948/audi-e7x-erev-resmi/",
+      "date": "27 Kasım 2026",
+      "read_time": "3 dk okuma",
+      "tag": "EV GÜNDEM",
+      "tagBg": "bg-cyan-600 text-white",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/rK69VY/s3/audi-e7x-erev.jpg"
+    },
+    {
+      "id": 2,
       "title": "Toyota'nın ilk \"menzil uzatıcı\" modeli yolda!",
       "description": "GAC Toyota'nın yeni SUV'si, markanın elektrikli güç ünitelerine 5. seçeneği ekliyor.",
       "source": "Motor1 Türkiye",
       "url": "https://tr.motor1.com/news/816941/toyota-ilk-erev-teaser/",
       "date": "26 Kasım 2026",
-      "read_time": "3 dk okuma",
+      "read_time": "4 dk okuma",
       "tag": "ŞARJ & BATARYA",
       "tagBg": "bg-emerald-600 text-white",
       "imageUrl": "https://cdn.motor1.com/images/mgl/OoZEmB/s3/toyota-highlander-erev-teaser.jpg"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "JLR, elektrikli Range Rover GT'nin 2027'de geleceğini doğruladı!",
       "description": "Amiral gemisi modelin altında yer alsa da lüksten taviz vermiyor.",
       "source": "Motor1 Türkiye",
       "url": "https://tr.motor1.com/news/816907/range-rover-gt-2027-dogrulandi/",
       "date": "26 Kasım 2026",
-      "read_time": "4 dk okuma",
+      "read_time": "5 dk okuma",
       "tag": "EV GÜNDEM",
       "tagBg": "bg-cyan-600 text-white",
       "imageUrl": "https://cdn.motor1.com/images/mgl/y2lkJ7/s3/2028-range-rover-gt-rendering-by-motor1.jpg"
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "BMW, tam elektrikli M3'ü 2027'nin ilk günlerinde tanıtabilir",
       "description": "Motor1 Türkiye kaynağından aktarılan habere göre elektrikli otomobil ekosistemindeki son gelişmeler paylaşıldı.",
       "source": "Motor1 Türkiye",
       "url": "https://tr.motor1.com/news/816882/bmw-m3-ev-ces-2027/",
       "date": "26 Kasım 2026",
-      "read_time": "5 dk okuma",
+      "read_time": "6 dk okuma",
       "tag": "YENİ MODELLER",
       "tagBg": "bg-amber-600 text-white",
       "imageUrl": "https://cdn.motor1.com/images/mgl/2N90YK/s3/bmw-3-elektro-2027-teaserbilder.jpg"
-    },
-    {
-      "id": 4,
-      "title": "Yeni nesil Golf R, hibrit desteğine ihtiyaç duyabilir!",
-      "description": "Popüler hot hatch, Euro 7 kurallarını karşılamak için 48 voltluk hafif hibrit bir sisteme geçebilir.",
-      "source": "Motor1 Türkiye",
-      "url": "https://tr.motor1.com/news/816672/yeni-golfr-hafif-hibrit-olacak/",
-      "date": "24 Kasım 2026",
-      "read_time": "6 dk okuma",
-      "tag": "EV GÜNDEM",
-      "tagBg": "bg-cyan-600 text-white",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/lEqblE/s3/2025-volkswagen-golf-r-first-drive-review.jpg"
     },
     {
       "id": 5,
